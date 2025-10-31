@@ -23,10 +23,10 @@ dist/
 # models/*.joblib
 
 # Data files (raw or processed)
-data/raw/
-data/processed/
-data/interim/
-data/external/
+# data/raw/
+# data/processed/
+# data/interim/
+# data/external/
 
 # Logs and temporary files
 *.log
