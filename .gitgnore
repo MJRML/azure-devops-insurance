@@ -1,0 +1,68 @@
+# ========================
+# Python & FastAPI
+# ========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Models (ignore trained model files)
+models/*.pkl
+models/*.joblib
+
+# Data files (raw or processed)
+data/raw/
+data/processed/
+data/interim/
+data/external/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+logs/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.cache
+pytest_cache/
+
+# Docker
+*.pid
+*.tar
+.dockerignore
+
+# Azure and cloud
+*.azureml/
+.azure/
+*.env
+*.secrets
+.env.local
+
+# Jupyter notebooks
+.ipynb_checkpoints/
