@@ -24,6 +24,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
+      - name: Preprocess dataset
+        run: python src/preprocessing/preprocess.py
+
       - name: Train model for CI
         run: |
           python src/training/train_model.py
