@@ -19,8 +19,8 @@ dist/
 .eggs/
 
 # Models (ignore trained model files)
-models/*.pkl
-models/*.joblib
+# models/*.pkl
+# models/*.joblib
 
 # Data files (raw or processed)
 data/raw/
