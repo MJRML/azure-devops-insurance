@@ -6,3 +6,4 @@ joblib
 pytest
 flake8
 black
+httpx
