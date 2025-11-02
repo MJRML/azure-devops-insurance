@@ -6,7 +6,7 @@ venv/
 
 # Data
 data/processed/
-models/
+#models/
 
 # Docker
 *.log
