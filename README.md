@@ -1,4 +1,4 @@
-# 🧠 End-to-End MLOps Insurance Prediction Project
+#  End-to-End MLOps Insurance Prediction Project
 
 This project demonstrates an **End-to-End MLOps pipeline** using:
 - **FastAPI** for model serving  
@@ -8,5 +8,5 @@ This project demonstrates an **End-to-End MLOps pipeline** using:
 
 ---
 
-## 🚀 Project Structure
+##  Project Structure
 
